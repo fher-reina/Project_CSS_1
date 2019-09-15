@@ -23,6 +23,8 @@ th2 {
 th3 {
 	font-size: 28px !important;
 	font-weight: bold;
+	font-style: italic;
+	color: crimson;
 	text-align: left !important
 }
 
