@@ -12,6 +12,17 @@ body {
 	display: inline-block;
 	transition: 0.3s;
 }
+
+#btn_2{
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: 2px solid orangered;
+	background-color:red;
+	color: white;
+	margin: 10px 0;
+	display: inline-block;
+	transition: 0.3s;
+}
 .btn:hover{
 	transform: scale(1.2);
 	letter-spacing: 3px;
